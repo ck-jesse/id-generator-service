@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.tn.log:log-access:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/tn/log/log-access/unknown/log-access-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/tn/log/log-access/unknown/log-access-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/tn/log/log-access/unknown/log-access-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

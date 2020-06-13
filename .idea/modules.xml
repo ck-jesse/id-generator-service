@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/id-generator-service.iml" filepath="$PROJECT_DIR$/id-generator-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/id-generator-service-dao/id-generator-service-dao.iml" filepath="$PROJECT_DIR$/id-generator-service-dao/id-generator-service-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/id-generator-service-deploy/id-generator-service-deploy.iml" filepath="$PROJECT_DIR$/id-generator-service-deploy/id-generator-service-deploy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/id-generator-service-facade/id-generator-service-facade.iml" filepath="$PROJECT_DIR$/id-generator-service-facade/id-generator-service-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/id-generator-service-impl/id-generator-service-impl.iml" filepath="$PROJECT_DIR$/id-generator-service-impl/id-generator-service-impl.iml" />
+    </modules>
+  </component>
+</project>
